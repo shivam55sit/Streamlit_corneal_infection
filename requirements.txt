@@ -1,5 +1,5 @@
+python3.7
 ultralytics
 streamlit
 numpy
-os
-opencv-python
+
