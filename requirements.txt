@@ -1,0 +1,5 @@
+ultralytic
+streamlit
+numpy
+os
+opencv-python
