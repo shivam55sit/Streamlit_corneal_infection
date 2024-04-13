@@ -1,4 +1,4 @@
-ultralytic
+ultralytics
 streamlit
 numpy
 os
