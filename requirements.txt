@@ -1,4 +1,4 @@
-python3.7
+python3.11
 ultralytics
 streamlit
 numpy
